@@ -96,6 +96,10 @@ main {
                     width: 100%;
                     background-color: rgb(111, 206, 203);
                 }
+
+                div#email input:focus-within, div#password input:focus-within {
+                    background-color: aliceblue;
+                }
             
             input[type='submit'] {
                 background-color: var(--Verde);
