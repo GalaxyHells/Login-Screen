@@ -98,6 +98,7 @@ main {
                     border: none;
                     width: 100%;
                     background-color: rgb(111, 206, 203);
+                    text-indent: 10px;
                 }
 
                 div#email input:focus-within, div#password input:focus-within {
@@ -128,7 +129,6 @@ main {
                 height: 42px;
                 border-radius: 7px;
                 cursor: pointer;
-                text-indent: 50px;
             }
 
                 input[type = "button"]::after {
