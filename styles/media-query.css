@@ -34,7 +34,7 @@
             background-position: right center;
             background-size: cover;
 
-            border-radius: 20px 0px 0px 20px;
+            /*border-radius: 20px 0px 0px 20px;*/
         }
 
         div#inner-login {
@@ -67,7 +67,7 @@ body {
             width: 51%;
             order: 2;
 
-            border-radius: 0px 20px 20px 0px;
+            /*border-radius: 0px 20px 20px 0px;*/
         }
 
         div#inner-login {
